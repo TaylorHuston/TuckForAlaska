@@ -6,10 +6,12 @@ body {
 
 nav {
     text-align: right;
+
     li {
         display: inline-block;
 
         text-align: center;
+
         a {
             display: inline-block;
             width: 100px;
@@ -22,12 +24,14 @@ nav {
 }
 
 .top {
-    height: 400px;
+    height: 280px;
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
     background-image: url("../images/header.png");
     background-repeat: no-repeat;
+    background-size: contain;
+
 }
 
 .main {
@@ -43,6 +47,27 @@ nav {
 }
 
 footer {
-    height: 200px;
+    height: 350px;
     width: 100%;
+
+    .container {
+        display: flex;
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+
+        div {
+            display: inline-block;
+            flex-grow: 3;
+            height: 350px;
+
+        }
+
+        .center {
+            flex-grow: 5;
+            background-image: url("../images/Picture Tuck Logo.png");
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+    }
 }
