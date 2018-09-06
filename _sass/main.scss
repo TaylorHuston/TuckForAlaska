@@ -53,7 +53,7 @@ body {
     .container {
         max-width: 1000px;
         margin: 0 auto;
-        padding: 0 20px;
+        padding: 0 30px;
     }
 }
 
@@ -78,6 +78,7 @@ footer {
         justify-content: space-between;
         width: 100%;
         max-width: 1200px;
+        padding: 0 20px;
         margin: 0 auto;
 
         letter-spacing: 3px;
@@ -104,6 +105,7 @@ footer {
     footer {
         .container {
             flex-direction: column;
+            padding: 0;
             div {
                 width: 100%;
                 text-align: center;

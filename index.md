@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-<h1>Tuck For Alaska</h1>
-
 <img class="headshot" src="assets/images/headshot-small.png">
 
 It is an honor to represent you. Your continued trust and faith has enabled me to bring people together

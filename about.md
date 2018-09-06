@@ -2,8 +2,6 @@
 layout: default
 title: About
 ---
-<h1>Tuck For Alaska</h1>
-
 <img class="headshot" src="assets/images/headshot-small.png">
 
 Hard work, dedication and the will to succeed are the values that pioneered Alaska. I’ve learned quite
