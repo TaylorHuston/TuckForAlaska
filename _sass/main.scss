@@ -8,17 +8,21 @@ body {
 
 .top {
     position: relative;
-    height: 280px;
+    max-height: 280px;
     width: 100%;
     max-width: 1400px;
     margin: 0 auto;
-    background-image: url("../images/header.png");
-    background-repeat: no-repeat;
-    background-size: contain;
+//    background-image: url("../images/header.png");
+//    background-repeat: no-repeat;
+//    background-size: contain;
+    
+    img {
+        max-width: 100%;
+    }
 
     nav {
         position: absolute;
-        right: 200px;
+        right: 10%;
         bottom: 0;
         text-align: right;
 
@@ -49,6 +53,7 @@ body {
     .container {
         max-width: 1000px;
         margin: 0 auto;
+        padding: 0 20px;
     }
 }
 
@@ -62,9 +67,9 @@ body {
 }
 
 footer {
-    height: 250px;
+    height: 200px;
     width: 100%;
-    
+
     text-shadow: 1px 1px #111111;
 
     .container {
@@ -84,12 +89,30 @@ footer {
 
         .center {
             width: 50%;
-            height: 250px;
+            height: 200px;
 
             background-image: url("../images/Picture Tuck Logo.png");
             background-repeat: no-repeat;
             background-size: contain;
             background-position: center;
         }
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    footer {
+        .container {
+            flex-direction: column;
+            div {
+                width: 100%;
+                text-align: center;
+            }
+            .center {
+                width: 100%
+            }
+
+        }
+
     }
 }
