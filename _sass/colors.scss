@@ -1,9 +1,17 @@
-header, footer {
+div {
+    overflow: auto;
+}
+
+html {
     background-color: #0060ad;
 }
 
+.main {
+    background-color: white;
+}
+
 .current {
-    color: grey;
+//    color: grey;
 }
 
 footer {

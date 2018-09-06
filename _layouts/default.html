@@ -8,11 +8,14 @@
   <body>
       <header>
          <div class="top">
+             {% include nav.html %}
          </div>
       </header>
     
       <div class="main">
-          {{ content }}
+          <div class="container">
+              {{ content }}        
+          </div>
       </div>
        {% include foot.html %}
 

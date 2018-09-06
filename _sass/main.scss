@@ -4,26 +4,10 @@ body {
     padding: 0;
 }
 
-nav {
-    text-align: right;
 
-    li {
-        display: inline-block;
-
-        text-align: center;
-
-        a {
-            display: inline-block;
-            width: 100px;
-            padding: 10px 0;
-            color: white;
-            font-weight: bold;
-            text-decoration: none;
-        }
-    }
-}
 
 .top {
+    position: relative;
     height: 280px;
     width: 100%;
     max-width: 1400px;
@@ -32,13 +16,42 @@ nav {
     background-repeat: no-repeat;
     background-size: contain;
 
+    nav {
+        position: absolute;
+        right: 200px;
+        bottom: 0;
+        text-align: right;
+
+        li {
+            display: inline-block;
+
+            text-align: center;
+
+            a {
+                display: inline-block;
+                width: 80px;
+                padding: 10px 0;
+                color: white;
+                font-weight: bold;
+                text-decoration: none;
+                text-shadow: 1px 1px #111111;
+                letter-spacing: 3px;
+                font-size: 16px;
+            }
+        }
+    }
+
 }
 
 .main {
     width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
+
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+    }
 }
+
 
 .headshot {
     position: relative;
@@ -49,8 +62,10 @@ nav {
 }
 
 footer {
-    height: 300px;
+    height: 250px;
     width: 100%;
+    
+    text-shadow: 1px 1px #111111;
 
     .container {
         display: flex;
@@ -59,7 +74,7 @@ footer {
         width: 100%;
         max-width: 1200px;
         margin: 0 auto;
-        
+
         letter-spacing: 3px;
         line-height: 2;
 
@@ -69,11 +84,12 @@ footer {
 
         .center {
             width: 50%;
-            height: 300px;
+            height: 250px;
 
             background-image: url("../images/Picture Tuck Logo.png");
             background-repeat: no-repeat;
             background-size: contain;
+            background-position: center;
         }
     }
 }
