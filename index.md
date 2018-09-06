@@ -6,12 +6,27 @@ title: Home
 
 <img class="headshot" src="assets/images/headshot-small.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar eu risus sit amet sollicitudin. Quisque quis diam in magna facilisis commodo sit amet vel ex. Curabitur mollis varius risus, tristique convallis felis. Maecenas ornare imperdiet justo, eget pulvinar magna rhoncus vel. Nam maximus placerat laoreet. Vestibulum viverra mauris et sem finibus aliquam. Mauris rhoncus eros vitae nisl convallis, id convallis justo fermentum. Duis augue ligula, efficitur non lectus in, venenatis dapibus magna. Maecenas vitae neque id ligula facilisis facilisis. Sed arcu ipsum, consequat iaculis rhoncus ac, efficitur ut orci. Aenean imperdiet sodales rutrum. Sed mollis tellus ut tellus molestie, vel pellentesque orci porta.
+It is an honor to represent you. Your continued trust and faith has enabled me to bring people together
+to serve as House Majority Leader of a coalition of Alaska Republicans, Independents, and Democrats.
+We put aside party politics and joined together to do what’s best for Alaska by protecting jobs and
+building the economy.
 
-In lobortis et libero vel dignissim. Suspendisse arcu tellus, tristique ut erat sit amet, lacinia vehicula ante. Aliquam erat volutpat. Sed vestibulum diam nec nunc lobortis ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget eros mi. Nullam sodales leo sit amet imperdiet semper. Curabitur dolor nulla, volutpat vel tempus sed, hendrerit eget libero. Curabitur scelerisque, nisi nec vestibulum tristique, mauris augue venenatis nulla, nec porttitor odio sapien et leo. Curabitur id neque ultricies, dapibus elit a, congue leo.
+We passed legislation that addressed immediate public safety concerns and increased funding for
+troopers and the court system, and I am proud we pushed for advancements in victims’ rights and
+forward funded education.
 
-Donec sit amet mollis tortor, et blandit ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan pulvinar augue, sed tincidunt quam pretium quis. Sed fermentum elementum purus in luctus. Morbi bibendum erat et viverra aliquam. Donec nec dolor accumsan, congue lacus eu, tempus felis. Aliquam erat volutpat. Ut leo est, viverra ac tincidunt in, imperdiet ut neque. Donec commodo lorem a convallis sollicitudin. Sed in turpis et nisl varius pharetra eget sit amet dui. Aenean ac gravida libero. Proin a feugiat enim. Mauris commodo metus sed sollicitudin cursus. In vitae odio id dui condimentum fermentum. Vestibulum condimentum commodo ornare. Mauris congue mollis lacus at fringilla.
+Keeping Alaskans safe is my top priority. Unfortunately, many of us have been victims of the recent
+increase in crime. Like many of you, my family has had vehicles stolen and items taken from our
+property. Alaskans have a right to feel safe in their neighborhoods.
 
-Mauris hendrerit quis urna cursus consectetur. Quisque ac vulputate massa, nec ullamcorper felis. Pellentesque sed sapien tortor. Nunc dapibus nunc velit, sit amet vestibulum turpis malesuada at. Fusce diam orci, rutrum sed fringilla ut, condimentum nec odio. Sed cursus aliquam ex vel egestas. Donec congue nisl ut dui consequat, quis rutrum elit venenatis.
+I introduced bills and amendments to protect the Permanent Fund Dividend and give Alaskans a vote to
+constitutionalize the Dividend for our future children.
 
-Nam suscipit arcu suscipit velit gravida accumsan. Nullam tempor pretium leo, ut maximus purus finibus nec. Fusce vel convallis sem. Aliquam ac neque nec justo eleifend consequat ac sit amet magna. Nullam laoreet id ante sed vehicula. Suspendisse ultrices mauris in leo sollicitudin dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc nunc enim, sodales ut sollicitudin ullamcorper, mattis non leo. Fusce volutpat orci enim. 
+I personally passed legislation that supported our military service members and veterans, ensured that
+small business could continue to operate without harmful regulations, and provided economic
+opportunities along Alaska’s Arctic coast.
+
+Alaska is blessed with talented people and incredible natural resources. Together, we can make Alaska a
+place where ideas and innovations flourish, education is of the highest quality, the economy thrives, and
+jobs are rewarding. I want to continue working for you. Please call me with your concerns and vote for
+me, Chris Tuck. 223-6474.
