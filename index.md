@@ -4,7 +4,7 @@ title: Home
 ---
 <h1>Tuck For Alaska</h1>
 
-<img class="headshot" src="assets/images/headshot.jpg">
+<img class="headshot" src="assets/images/headshot-small.jpg">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pulvinar eu risus sit amet sollicitudin. Quisque quis diam in magna facilisis commodo sit amet vel ex. Curabitur mollis varius risus, tristique convallis felis. Maecenas ornare imperdiet justo, eget pulvinar magna rhoncus vel. Nam maximus placerat laoreet. Vestibulum viverra mauris et sem finibus aliquam. Mauris rhoncus eros vitae nisl convallis, id convallis justo fermentum. Duis augue ligula, efficitur non lectus in, venenatis dapibus magna. Maecenas vitae neque id ligula facilisis facilisis. Sed arcu ipsum, consequat iaculis rhoncus ac, efficitur ut orci. Aenean imperdiet sodales rutrum. Sed mollis tellus ut tellus molestie, vel pellentesque orci porta.
 
