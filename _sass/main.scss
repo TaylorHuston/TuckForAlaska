@@ -114,6 +114,12 @@ footer {
         max-width: 1400px;
     }
 
+    .main {
+        .container {
+            min-height: 700px;
+        }
+
+    }
 
     .headshot {
         position: relative;
