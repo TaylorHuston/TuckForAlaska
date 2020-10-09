@@ -5,7 +5,7 @@ div {
 }
 
 body {
-     margin: 0;
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
     font-weight: 400;
@@ -45,8 +45,9 @@ body {
                     text-decoration: none;
                     letter-spacing: 1px;
                 }
+
                 a:hover {
-                    background-color: rgba(0,0,0,.1);
+                    background-color: rgba(0, 0, 0, .1);
                 }
             }
         }
@@ -72,10 +73,12 @@ body {
 
     .contact {
         clear: both;
+
         .left {
             display: inline-block;
             width: 180px;
         }
+
         .right {
             display: inline-block;
             width: 220px;
@@ -87,6 +90,7 @@ body {
         color: blue;
         font-weight: 600;
         text-decoration: none;
+
         :visited {
             color: blue;
         }
@@ -138,8 +142,8 @@ footer {
 
         nav {
             position: absolute;
-            right: 10%;
-            bottom: 4px;
+            right: 5%;
+            bottom: 5px;
             text-align: right;
             margin: 0;
             padding: 0;
@@ -148,17 +152,18 @@ footer {
 
                 li {
 
-            a {
-                min-width: 70px;
-                padding: 10px;
-                color: white;
-                letter-spacing: 2px;
+                    a {
+                        min-width: 70px;
+                        padding: 10px;
+                        color: white;
+                        letter-spacing: 2px;
+                    }
+
+                    a:hover {
+                        background-color: rgba(0, 0, 0, .1);
+                    }
+                }
             }
-            a:hover {
-                background-color: rgba(0,0,0,.1);
-            }
-        }
-    }
         }
     }
 
@@ -170,6 +175,7 @@ footer {
         .container {
             min-height: 700px;
         }
+
         .headshot {
             display: block;
             float: right;
