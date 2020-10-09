@@ -2,5 +2,9 @@
   link: /
 - name: About
   link: /about.html
+- name: Issues
+  link: /issues.html
 - name: Contribute
-  link: https://secure.actblue.com/donate/chris-tuck-for-state-house-1
+  link: /contribute.html
+- name: Vote
+  link: /vote.html

@@ -4,27 +4,11 @@ title: Home
 ---
 <img class="headshot" src="assets/images/headshot-small.png">
 
-It is an honor to represent you. Your continued trust and faith has enabled me to bring people together
-to serve as House Majority Leader of a coalition of Alaska Republicans, Independents, and Democrats.
-We put aside party politics and joined together to do what’s best for Alaska by protecting jobs and
-building the economy.
+It is an honor to represent you. My goal is to restore faith in government by ensuring there is a fair process and that community efforts succeed. Your trust and faith have enabled me, as your legislator, to bring people together. When I served as House Majority Leader of a coalition of Alaska Republicans, Independents, and Democrats, we put aside party politics and joined together to do what was best for Alaska by protecting jobs and building the economy. The Legislature demonstrated that, when we work together, we can get things done.
 
-We passed legislation that addressed immediate public safety concerns and increased funding for
-troopers and the court system, and I am proud we pushed for advancements in victims’ rights and
-forward funded education.
+The global COVID-19 pandemic continues to threaten our physical and economic health, coloring all aspects of our lives. But we Alaskans are strong and resilient. We rise to the challenge, just as Alaskans joined forces to transport diphtheria serum to Nome in 1925. Securing and transporting diphtheria serum across frozen tundra was remarkable - and saved many lives.
 
-Keeping Alaskans safe is my top priority. Unfortunately, many of us have been victims of the recent
-increase in crime. Like many of you, my family has had vehicles stolen and items taken from our
-property. Alaskans have a right to feel safe in their neighborhoods.
+Alaska is blessed with talented people and incredible natural resources. Together, we can make Alaska a place where ideas and innovations flourish, education is of the highest quality, the economy thrives, and jobs are rewarding. 
+There is still more work to do. I want to continue working for you. Please call me with your concerns – and please vote for me.
 
-I introduced bills and amendments to protect the Permanent Fund Dividend and give Alaskans a vote to
-constitutionalize the Dividend for our future children.
-
-I personally passed legislation that supported our military service members and veterans, ensured that
-small business could continue to operate without harmful regulations, and provided economic
-opportunities along Alaska’s Arctic coast.
-
-Alaska is blessed with talented people and incredible natural resources. Together, we can make Alaska a
-place where ideas and innovations flourish, education is of the highest quality, the economy thrives, and
-jobs are rewarding. I want to continue working for you. Please call me with your concerns and vote for
-me, Chris Tuck. 223-6474.
+Chris Tuck
