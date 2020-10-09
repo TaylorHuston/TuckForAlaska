@@ -144,9 +144,13 @@ footer {
             margin: 0;
             padding: 0;
 
+            ul {
+
+                li {
+
             a {
                 min-width: 70px;
-                padding: 10px 5px;
+                padding: 10px;
                 color: white;
                 letter-spacing: 2px;
             }
@@ -155,8 +159,14 @@ footer {
             }
         }
     }
+        }
+    }
 
     .main {
+        h1 {
+            font-size: 22px;
+        }
+
         .container {
             min-height: 700px;
         }

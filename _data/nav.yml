@@ -4,7 +4,8 @@
   link: /about.html
 - name: Issues
   link: /issues.html
-- name: Contribute
-  link: /contribute.html
 - name: Vote
   link: /vote.html
+
+- name: Contribute
+  link: /contribute.html

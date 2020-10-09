@@ -1,9 +1,6 @@
-_site
-.sass-cache
-=======
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadat
 .DS_Store
-
+/vendor
