@@ -12,3 +12,6 @@ Alaska is blessed with talented people and incredible natural resources. Togethe
 There is still more work to do. I want to continue working for you. Please call me with your concerns – and please vote for me.
 
 Chris Tuck
+
+
+<img class="signature" src="assets/images/tuck signature.jpg">
