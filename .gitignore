@@ -3,4 +3,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadat
 .DS_Store
+Gemfile.lock
 /vendor
