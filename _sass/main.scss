@@ -190,7 +190,7 @@ footer {
             
             .headshot {
                 display: block;
-                float: left;
+                float: right;
                 width: 30%;
                 max-width: 200px;
                 padding: 5px 10px;;
@@ -198,12 +198,13 @@ footer {
 
             .content {
                 float: left;
-                width: 68%;
+                width: 100%;
             }
 
             .social {
+                display: none;
                 float: right;
-                width: 29%;
+                //width: 29%;
                 padding-top: 25px;
             }
 
