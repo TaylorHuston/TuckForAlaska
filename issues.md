@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Issues
+title: Chris On The Issues
 ---
 
 **Public Safety**  

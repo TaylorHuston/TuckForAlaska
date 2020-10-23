@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Chris Tuck
 ---
 
 Hard work, dedication and the will to succeed are the values that pioneered Alaska and the values that guide my life, personally, professionally, as a parent, and as a volunteer. When my son, Devon, was born 26 years ago, I realized I was responsible for his future. Ever since, I have devoted my energy to making Alaska a place where our families flourish and our children grow up with opportunities.

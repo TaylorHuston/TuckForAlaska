@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vote
+title: Voting Information
 ---
 
 Election day is Tuesday, November 3, 2020. Polls will be open from 7:00 am to 8:00 pm. Vote at your polling place.

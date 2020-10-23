@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Chris Tuck For State House
 ---
 <img class="headshot" src="assets/images/headshot-small.png">
 
